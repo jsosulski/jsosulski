@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- [My personal homepage](https://jan-sosulski.de/) (At some point there will probably be more than a link to my github profile... :) )
+
 <!--
 **jsosulski/jsosulski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
